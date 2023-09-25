@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hej med jer kammerater!");
         String change = "I have made a change";
         String haha = "Hahaha";
-        String kristoffer = "Kristoffer er en geni";
+        String kristoffer = "Kristoffer er ikke et geni";
         System.out.println(haha);
         System.out.println(change);
         System.out.println(kristoffer);
